@@ -12,6 +12,7 @@ int main(){
 	int a = 20, b = 30;
 	int res = Calc(a, b);
 	printf("Result function = %d \n", res);
+	Print();
 	printf("--------Build complete------------ \n");
 	return 0;
 }
