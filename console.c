@@ -12,11 +12,16 @@ int main(){
 	int a = 20, b = 30;
 	int res = Calc(a, b);
 	printf("Result function = %d \n", res);
-	printf("--------Build complete------------");
+	printf("--------Build complete------------ \n");
 	return 0;
 }
 
 int Calc(int FirstCount, int SecondCount){
 	int Sum = FirstCount + SecondCount;
 	return Sum;
+}
+
+int Print(){
+	printf("Da poshli vi vse nahui \n");
+	return 0;
 }
