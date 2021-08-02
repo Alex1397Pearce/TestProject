@@ -9,10 +9,16 @@ int main(){
 	int Sum;
 	Sum = 12;
 	printf("Sum = %d \n",Sum);
+<<<<<<< HEAD
 	int a = 20, b = 30;
 	//int res = Calc(a, b);
 	//printf("Result function = %d \n", res);
 	//Print();
+=======
+//	int a = 20, b = 30;
+//	int res = Calc(a, b);
+//	printf("Result function = %d \n", res);
+>>>>>>> bAlexPearce
 	printf("--------Build complete------------ \n");
 	return 0;
 }
